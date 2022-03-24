@@ -1,6 +1,5 @@
 # LeetCode Practice
 
-| 題號 | 主題(Issues連結) | 難易度 |
-| :-----| :----- | :----: |
-| # | [No Pairs Allowed](https://github.com/Barney30818/LeetPractice/issues/1) | # |
-| 单元格 | 单元格 | 单元格 |
+| No. | Topic(LeetCode連結) | MySolution(Issue連結) | difficulty |
+| :-----| :----- | :----- | :----- |
+| # | No Pairs Allowed | [Java](https://github.com/Barney30818/LeetPractice/issues/1) | # |
